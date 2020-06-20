@@ -1,2 +1,3 @@
-# jam-session
+# Jam Session
+
 JavaScript sessions done right
